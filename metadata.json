@@ -1,0 +1,6 @@
+{
+  "name": "AutoML Studio – End-to-End Machine Learning Platform",
+  "description": "Professional, end-to-end automated machine learning platform to upload CSVs, preprocess data, train and fine-tune scikit-learn models, evaluate metrics, visualize results, and generate predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
